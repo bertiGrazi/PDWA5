@@ -14,7 +14,6 @@
 </h4>
 
 ---
-
 ## 🙋🏻‍♀️🙋🏻‍♀️ Autoras<br>
 <table align="center">
   <tr>
@@ -59,8 +58,10 @@ Você deve ter o Expo instalado na sua máquina e em seguida seguir os seguintes
 ```
 ---
 ## 🖼 Layout
-Crédito ao <b><i>rodrigorgtic</i></b>
----
+
+<h4>Crédito ao <b><i>rodrigorgtic</i></b>
+</h4>
+
 ---
 
 <p align="center">Feito por <strong><a href="https://www.linkedin.com/search/results/all/?keywords=grazielli%20lima%20berti&origin=RICH_QUERY_SUGGESTION&position=4&searchId=78072044-ff98-48dd-96ed-373fa64f857d&sid=Sfo">Grazielli Berti</a></strong> e <strong><a href="https://www.linkedin.com/search/results/all/?keywords=tayna%20fran%C3%A7a&origin=RICH_QUERY_SUGGESTION&position=2&searchId=6176aa69-e360-4bfa-8ce2-928d3bdcfe57&sid=LxN">Tayna França</a></strong> </p>
