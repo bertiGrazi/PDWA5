@@ -36,6 +36,17 @@ export function Profile() {
     navigation.navigate('SignIn');
   }
 
+  // get Created User Profile
+  const getProfile = async () => {
+    const response = await fetch(`https://us-central1-missao-newton.cloudfunctions.net/astroMatch/julio/users/profile`, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    });
+  }
+
+
+
  async function loadProfile() {
    const response = await fetch(`https://www.googleapis.com/oauth2/v2/userinfo?alt=json&access_token=${token}`);
     const userInfo = await response.json();
